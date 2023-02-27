@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Boris 
 - 👀 I’m interested in programming, sport.
 - 🌱 Keep learning JavaScript, library React, also interesting Backend.
-- 📫 How to reach me / telegram - @borischepurnoy / email - beastbs.dev@gmail.com /
+- 🔎 Looking for a job as a Frontend Developer.
+- 📫 How to reach me - | telegram - @borischepurnoy | email - beastbs.dev@gmail.com |
